@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 
 - 🥅Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I draw and play in free time
+- ⚡ Fun fact: I draw,read and listen to music in free time
 
 ### Connect with me:
 
@@ -20,6 +20,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="C" width="26px" src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+<img align="left" alt="npm" width="26px" src= "https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="cpp" width="26px" src= "https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left"alt="JavaScript"width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
