@@ -1,7 +1,8 @@
-### Hi there, I'm Anushruti 👋
+<h1 align="center">Hi 👋, I'm Anushruti</h1>
+<h3 align="center">I'm a Student and App Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushruti11&label=Profile%20views&color=0e75b6&style=flat" alt="anushruti11" /> </p>
 
-## I'm a Student and App developer!
 
 - 🌱 I’m currently learning everything 
 - 🥅Goals: Contribute more to Open Source projects
@@ -15,7 +16,6 @@
 <br />
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,13 +30,11 @@
 
 <br />
 <br />
-
-
 <details>
   <summary>:zap: Github Stats</summary>
 
   [![Anushruti's github stats](https://github-readme-stats.vercel.app/api?username=anushruti11&show_icons=true&theme=radical)](https://github.com/anushruti11/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushruti11&layout=compact)](https://github.com/anushruti11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushruti11&layout=compact&theme=radical)](https://github.com/anushruti11/github-readme-stats)
 </details>
 
 
