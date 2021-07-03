@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="anushruti11 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="anushruti11 | Gmail"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "/>][discord]
+[<img align="left" alt="anushruti11 | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "/>][gmail]
 
 <br />
 
@@ -45,5 +45,5 @@
 </details>
 
 
-[discord]: mailto:shanushruti113.com
+[gmail]: mailto:shanushruti113.com
 [linkedin]:https://www.linkedin.com/mwlite/in/anushruti-shresth-025a481a8
