@@ -55,5 +55,5 @@
 
 
 [gmail]: mailto:shanushruti113.com
-[linkedin]:https://www.linkedin.com/mwlite/in/anushruti-shresth-025a481a8
+[linkedin]:https://www.linkedin.com/in/anushruti-shresth
 [youtube]:https://youtube.com/@anushrutishresth?si=j6wMlfuALDiKRE9Z
