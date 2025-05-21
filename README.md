@@ -21,6 +21,7 @@
 
 [<img align="left" alt="anushruti11 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="anushruti11 | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "/>][gmail]
+[<img align="left" alt="anushruti11 | Youtube"  src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white "/>][youtube]
 
 <br />
 
@@ -43,9 +44,6 @@
 <br />
 <br />
 
-### Earned Badges :
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100">
-
 <details>
   <summary><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br></summary>
 
@@ -58,3 +56,4 @@
 
 [gmail]: mailto:shanushruti113.com
 [linkedin]:https://www.linkedin.com/mwlite/in/anushruti-shresth-025a481a8
+[youtube]:https://youtube.com/@anushrutishresth?si=j6wMlfuALDiKRE9Z
